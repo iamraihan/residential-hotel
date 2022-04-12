@@ -1,0 +1,28 @@
+.room {
+    width: 400px;
+    margin: 0 auto;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.room img {
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+.book-now-btn {
+    background-color: #edf6f9;
+    outline: none;
+    border: none;
+    padding: 8px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+}

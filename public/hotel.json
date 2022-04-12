@@ -1,0 +1,38 @@
+[
+    {
+        "id": "62550000221c5061a4b69224",
+        "img": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "price": 372,
+        "name": "Family Room"
+    },
+    {
+        "id": "6255000066511569b037f889",
+        "img": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "price": 271,
+        "name": "Single Room"
+    },
+    {
+        "id": "62550000dcac873c7d2cbf49",
+        "img": "https://images.unsplash.com/photo-1586611292717-f828b167408c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "price": 228,
+        "name": "VIP"
+    },
+    {
+        "id": "62550000f233821759259175",
+        "img": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "price": 203,
+        "name": "Sea View Room"
+    },
+    {
+        "id": "62550000ac6b4805ed69bbc2",
+        "img": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "price": 337,
+        "name": "Gonzales Graves"
+    },
+    {
+        "id": "6255000078c1f5e8f12e2012",
+        "img": "https://images.unsplash.com/photo-1592229505726-ca121723b8ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "price": 266,
+        "name": "Couple Room"
+    }
+]
