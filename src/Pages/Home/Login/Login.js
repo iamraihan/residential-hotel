@@ -10,8 +10,8 @@ const Login = () => {
     const [password, setPassword] = useState('')
     const navigate = useNavigate()
     const location = useLocation()
-    const from = location.state?.from?.pathname || '/'
-
+    const from = location.state?.form?.pathname || '/'
+    console.log(location);
     const [
         signInWithEmailAndPassword,
 
